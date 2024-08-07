@@ -2,9 +2,9 @@
   "multipleChoice": {
     "easy": [
       {
-        "question": "What year did the American Civil War start?",
-        "options": ["1860", "1861", "1862", "1863"],
-        "answer": "1861"
+        "question": "What is Vietnam's national days?",
+        "options": ["2/9", "12/9", "19/8", "3/9"],
+        "answer": "2/9"
       },
       {
         "question": "What is the capital of France?",
