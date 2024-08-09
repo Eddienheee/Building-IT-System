@@ -2,29 +2,36 @@
   "multipleChoice": {
     "easy": [
       {
-        "question": "What year did the American Civil War start?",
-        "options": ["1860", "1861", "1862", "1863"],
-        "answer": "1861"
+        "question": "What was the first name of our country?",
+        "options": ["Van Lang", "Au Lac", "Vietnam", "Dai Co Viet"],
+        "answer": "Van Lang"
       },
       {
-        "question": "What is the capital of France?",
-        "options": ["Berlin", "Madrid", "Paris", "Rome"],
-        "answer": "Paris"
+        "question": "What is Vietnam's national days",
+        "options": ["2/9", "12/9", "19/8", "3/9"],
+        "answer": "2/9"
       },
       {
-        "question": "Which planet is known as the Red Planet?",
-        "options": ["Earth", "Jupiter", "Mars", "Saturn"],
-        "answer": "Mars"
+        "question": "What day, month, and year did General Secretary Nguyen Phu Trong pass 
+away?",
+        "options": ["July 19, 2024", "July 20, 2024", "June 19, 2024", "June 20, 2024"],
+        "answer": "July 19, 2024"
       },
       {
-        "question": "Who painted the Mona Lisa?",
-        "options": ["Vincent van Gogh", "Pablo Picasso", "Leonardo da Vinci", "Claude Monet"],
-        "answer": "Leonardo da Vinci"
+        "question": "What day is national reunification day?",
+        "options": ["30/04/1975", "30/4/1974", "30/3/1975", "29/4/1975"],
+        "answer": "30/4/1975"
       },
       {
-        "question": "What is the largest ocean on Earth?",
-        "options": ["Atlantic Ocean", "Indian Ocean", "Arctic Ocean", "Pacific Ocean"],
-        "answer": "Pacific Ocean"
+        "question": " In what year and from where did Nguyen Tat Thanh set out to find a way to save 
+the country?",
+        "options": ["1911, at Nha Rong port", "1912, at Saigon station", "1913, at Mr. Le's house ", "1915, at Nha Rong port"],
+        "answer": "1911, at Nha Rong port"
+      },
+      {
+        "question": "What day, month, and year was Nguyen Tat Thanh born?",
+        "options": ["May 19, 1980", "May 19, 1890", "May 19, 1089", "May 19, 1908"],
+        "answer": "May 19, 1890"
       }
     ],
     "normal": [
